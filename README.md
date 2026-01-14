@@ -1,2 +1,1 @@
-"# fighting_simulator" 
-"# fighting_simulator" 
+simulator for fighting predictions...
